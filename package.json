@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/usmanMagaji/practice-node/issues"
   },
-  "homepage": "https://github.com/usmanMagaji/practice-node#readme"
+  "homepage": "https://github.com/usmanMagaji/practice-node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
